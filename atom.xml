@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kırıkkale Korsan Taksi | Esenboğa ve Ankara Yolu</title>
+  <link href="https://kirikkalekorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://kirikkalekorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://kirikkalekorsantaksi.github.io/</id>
+  <updated>2026-11-19T17:49:54.263Z</updated>
+  <author><name>Kırıkkale Korsan Taksi</name></author>
+  <entry>
+    <title>Kırıkkale Korsan Taksi | Esenboğa ve Ankara Yolu</title>
+    <link href="https://kirikkalekorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://kirikkalekorsantaksi.github.io/</id>
+    <updated>2026-11-19T17:49:54.263Z</updated>
+    <summary>Kırıkkale korsan taksi hattı: Esenboğa Havalimanı merkezden 92 km, Ankara hastane ve iş randevuları, fabrika vardiyaları, Keskin, Delice ve Sulakyurt yolu.</summary>
+  </entry>
+</feed>
